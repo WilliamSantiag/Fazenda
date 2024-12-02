@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fazenda", "Fazenda.csproj", "{FB679291-C47B-4864-B118-9EE6F1D7CD21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB679291-C47B-4864-B118-9EE6F1D7CD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB679291-C47B-4864-B118-9EE6F1D7CD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB679291-C47B-4864-B118-9EE6F1D7CD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB679291-C47B-4864-B118-9EE6F1D7CD21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {624CB4CA-850A-4820-BAC9-07AA2E51DB3C}
+	EndGlobalSection
+EndGlobal
